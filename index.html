@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>器械参考图库</title>
+<link rel="stylesheet" href="preview.css">
+</head>
+<body>
+
+<header class="topbar">
+  <h1>器械参考图库</h1>
+</header>
+
+<main>
+
+<section class="controls" aria-label="筛选">
+  <div class="tabs" id="category-tabs" role="tablist">
+    <button type="button" class="tab-btn active" data-img="">全部器械 <span class="tab-badge" id="tab-cnt-all"></span></button>
+  </div>
+  <div class="fields">
+    <label class="field search">搜索<input id="search" type="search" placeholder="中文名 / 英文名 / 编号，例如 低位划船 或 022"></label>
+    <label class="field">器械类型<select id="category"><option value="">全部类型</option></select></label>
+    <label class="field">训练部位<select id="area"><option value="">全部部位</option></select></label>
+    <label class="field">国内普及度<select id="prevalence">
+      <option value="">全部普及度</option>
+      <option value="常见">常见 · 普通商业健身房基本都有</option>
+      <option value="一般">一般 · 连锁或高端店偶有</option>
+      <option value="少见">少见 · 多为进口高端或专业铁馆</option>
+    </select></label>
+  </div>
+  <p class="readout"><strong id="result-count"></strong><span>全量采用 WebP 高清透明图层 · 点图放大 · 全部记录自适应网格展示，不分页</span></p>
+</section>
+
+<section id="gallery" class="gallery" aria-live="polite"></section>
+
+<footer>
+  图库资产由 <code>images/webp/</code> 目录直供 · 素材按 <code>&lt;编号-名称&gt;.webp</code> 规范关联 ·
+  <a href="README.md">说明文档与规约</a>
+</footer>
+</main>
+
+<dialog id="viewer">
+  <div class="dialog-head">
+    <div><span id="viewer-id"></span><h2 id="viewer-title"></h2></div>
+    <button id="viewer-close" type="button" aria-label="关闭">关闭 ×</button>
+  </div>
+  <div class="viewer-bar">
+    <div class="zoom-controls">
+      <button id="fit" type="button">适应窗口</button>
+      <button id="native" type="button">原始尺寸</button>
+      <button id="double" type="button">2 倍放大</button>
+    </div>
+  </div>
+  <p class="viewer-caption" id="viewer-caption"></p>
+  <div class="viewport"><div id="stage" class="stage"><img id="viewer-img" alt="放大查看"></div></div>
+  <dl id="details"></dl>
+</dialog>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script src="data/equipment-data.js"></script>
+<script src="preview.js"></script>
+</body>
+</html>

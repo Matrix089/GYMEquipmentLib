@@ -1,0 +1,1327 @@
+[
+  {
+    "id": "001-挂片式腰带深蹲训练机",
+    "name_zh": "挂片式腰带深蹲训练机",
+    "name_en": "Plate Loaded Belt Squat",
+    "category": "挂片式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式腰带深蹲训练机。腿举与深蹲保留独立名称，不将 Squat Press 译成肩上推举。",
+    "thumb": "thumb/001-挂片式腰带深蹲训练机.webp",
+    "detail": "detail/001-挂片式腰带深蹲训练机.webp",
+    "thumb_kb": 20.0,
+    "detail_kb": 82.0
+  },
+  {
+    "id": "002-挂片式臀推训练机",
+    "name_zh": "挂片式臀推训练机",
+    "name_en": "Plate Loaded Glute Drive",
+    "category": "挂片式力量器械",
+    "body_part": "臀部",
+    "primary_muscles": [
+      "臀大肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式臀推训练机。按髋伸展或臀部训练用途分类。",
+    "thumb": "thumb/002-挂片式臀推训练机.webp",
+    "detail": "detail/002-挂片式臀推训练机.webp",
+    "thumb_kb": 15.0,
+    "detail_kb": 62.9
+  },
+  {
+    "id": "003-挂片式臀腿及反向挺身复合训练器",
+    "name_zh": "挂片式臀腿及反向挺身复合训练器",
+    "name_en": "Plate Loaded Glute Ham / Reverse Hyper",
+    "category": "挂片式力量器械",
+    "body_part": "臀腿后链",
+    "primary_muscles": [
+      "腘绳肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式臀腿及反向挺身复合训练器。辅助北欧腿弯举不应仅因挂载铃片就断定为主动挂片负荷；负荷机制待型号说明核对。",
+    "thumb": "thumb/003-挂片式臀腿及反向挺身复合训练器.webp",
+    "detail": "detail/003-挂片式臀腿及反向挺身复合训练器.webp",
+    "thumb_kb": 15.1,
+    "detail_kb": 63.7
+  },
+  {
+    "id": "004-挂片式握力训练机",
+    "name_zh": "挂片式握力训练机",
+    "name_en": "Plate Loaded Gripper",
+    "category": "挂片式力量器械",
+    "body_part": "前臂握力",
+    "primary_muscles": [
+      "前臂屈肌群"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式握力训练机。握力训练，不归为背部。",
+    "thumb": "thumb/004-挂片式握力训练机.webp",
+    "detail": "detail/004-挂片式握力训练机.webp",
+    "thumb_kb": 14.7,
+    "detail_kb": 63.3
+  },
+  {
+    "id": "005-挂片式组合旋转训练机",
+    "name_zh": "挂片式组合旋转训练机",
+    "name_en": "Plate Loaded Ground Base Combo Twist",
+    "category": "挂片式力量器械",
+    "body_part": "腰腹核心",
+    "primary_muscles": [
+      "核心肌群"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式组合旋转训练机。站姿旋转与全身力量传递。",
+    "thumb": "thumb/005-挂片式组合旋转训练机.webp",
+    "detail": "detail/005-挂片式组合旋转训练机.webp",
+    "thumb_kb": 16.8,
+    "detail_kb": 72.8
+  },
+  {
+    "id": "006-挂片式站姿推举训练机",
+    "name_zh": "挂片式站姿推举训练机",
+    "name_en": "Plate Loaded Ground Base Jammer",
+    "category": "挂片式力量器械",
+    "body_part": "全身综合",
+    "primary_muscles": [
+      "三角肌前束",
+      "三角肌中束",
+      "肱三头肌",
+      "胸大肌上束"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式站姿推举训练机。多关节站姿爆发力训练；深蹲高拉不等同于背部高位下拉。",
+    "thumb": "thumb/006-挂片式站姿推举训练机.webp",
+    "detail": "detail/006-挂片式站姿推举训练机.webp",
+    "thumb_kb": 19.3,
+    "detail_kb": 73.1
+  },
+  {
+    "id": "007-挂片式多功能深蹲训练机",
+    "name_zh": "挂片式多功能深蹲训练机",
+    "name_en": "Plate Loaded Ground Base Multi-Squat",
+    "category": "挂片式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式多功能深蹲训练机。腿举与深蹲保留独立名称，不将 Squat Press 译成肩上推举。",
+    "thumb": "thumb/007-挂片式多功能深蹲训练机.webp",
+    "detail": "detail/007-挂片式多功能深蹲训练机.webp",
+    "thumb_kb": 18.1,
+    "detail_kb": 67.3
+  },
+  {
+    "id": "008-挂片式哈克深蹲训练机",
+    "name_zh": "挂片式哈克深蹲训练机",
+    "name_en": "Plate Loaded Hack Squat",
+    "category": "挂片式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "挂片式哈克深蹲训练机。腿举与深蹲保留独立名称，不将 Squat Press 译成肩上推举。",
+    "thumb": "thumb/008-挂片式哈克深蹲训练机.webp",
+    "detail": "detail/008-挂片式哈克深蹲训练机.webp",
+    "thumb_kb": 19.1,
+    "detail_kb": 75.5
+  },
+  {
+    "id": "009-挂片式独立臂卧推训练机",
+    "name_zh": "挂片式独立臂卧推训练机",
+    "name_en": "Plate Loaded Iso-Lateral Bench Press",
+    "category": "挂片式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式独立臂卧推训练机。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/009-挂片式独立臂卧推训练机.webp",
+    "detail": "detail/009-挂片式独立臂卧推训练机.webp",
+    "thumb_kb": 19.4,
+    "detail_kb": 74.4
+  },
+  {
+    "id": "010-挂片式独立臂胸背组合训练机",
+    "name_zh": "挂片式独立臂胸背组合训练机",
+    "name_en": "Plate Loaded Iso-Lateral Chest/Back",
+    "category": "挂片式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "背阔肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式独立臂胸背组合训练机。胸背组合器械，不能只归胸部。",
+    "thumb": "thumb/010-挂片式独立臂胸背组合训练机.webp",
+    "detail": "detail/010-挂片式独立臂胸背组合训练机.webp",
+    "thumb_kb": 18.9,
+    "detail_kb": 74.8
+  },
+  {
+    "id": "011-挂片式独立臂平卧推胸训练机",
+    "name_zh": "挂片式独立臂平卧推胸训练机",
+    "name_en": "Plate Loaded Iso-Lateral Horizontal Bench Press",
+    "category": "挂片式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式独立臂平卧推胸训练机。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/011-挂片式独立臂平卧推胸训练机.webp",
+    "detail": "detail/011-挂片式独立臂平卧推胸训练机.webp",
+    "thumb_kb": 16.8,
+    "detail_kb": 66.3
+  },
+  {
+    "id": "012-挂片式独立臂低位划船机",
+    "name_zh": "挂片式独立臂低位划船机",
+    "name_en": "Plate Loaded Iso-Lateral Low Row",
+    "category": "挂片式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "上背肌群"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式独立臂低位划船训练机。保留下拉、划船和上拉的独立动作名称，不混为同一种结构。",
+    "thumb": "thumb/012-挂片式独立臂低位划船机.webp",
+    "detail": "detail/012-挂片式独立臂低位划船机.webp",
+    "thumb_kb": 20.2,
+    "detail_kb": 81.9
+  },
+  {
+    "id": "013-挂片式独立臂大角度上斜推举训练机",
+    "name_zh": "挂片式独立臂大角度上斜推举训练机",
+    "name_en": "Plate Loaded Iso-Lateral Super Incline Press",
+    "category": "挂片式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "三角肌前束",
+      "肱三头肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式独立臂大角度上斜推举训练机。保留 Super Incline 大角度上斜名称，不直接等同肩推。",
+    "thumb": "thumb/013-挂片式独立臂大角度上斜推举训练机.webp",
+    "detail": "detail/013-挂片式独立臂大角度上斜推举训练机.webp",
+    "thumb_kb": 22.2,
+    "detail_kb": 88.9
+  },
+  {
+    "id": "014-挂片式独立臂宽距推胸训练机",
+    "name_zh": "挂片式独立臂宽距推胸训练机",
+    "name_en": "Plate Loaded Iso-Lateral Wide Chest",
+    "category": "挂片式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式独立臂宽距推胸训练机。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/014-挂片式独立臂宽距推胸训练机.webp",
+    "detail": "detail/014-挂片式独立臂宽距推胸训练机.webp",
+    "thumb_kb": 23.1,
+    "detail_kb": 91.8
+  },
+  {
+    "id": "015-挂片式线性腿举训练机",
+    "name_zh": "挂片式线性腿举训练机",
+    "name_en": "Plate Loaded Linear Leg Press",
+    "category": "挂片式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式线性腿举训练机。腿举与深蹲保留独立名称，不将 Squat Press 译成肩上推举。",
+    "thumb": "thumb/015-挂片式线性腿举训练机.webp",
+    "detail": "detail/015-挂片式线性腿举训练机.webp",
+    "thumb_kb": 17.1,
+    "detail_kb": 72.3
+  },
+  {
+    "id": "016-挂片式钟摆深蹲训练机",
+    "name_zh": "挂片式钟摆深蹲训练机",
+    "name_en": "Plate Loaded Pendulum-X Squat",
+    "category": "挂片式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式 Pendulum-X 钟摆深蹲训练机。腿举与深蹲保留独立名称，不将 Squat Press 译成肩上推举。",
+    "thumb": "thumb/016-挂片式钟摆深蹲训练机.webp",
+    "detail": "detail/016-挂片式钟摆深蹲训练机.webp",
+    "thumb_kb": 19.7,
+    "detail_kb": 77.3
+  },
+  {
+    "id": "017-挂片式上拉训练机",
+    "name_zh": "挂片式上拉训练机",
+    "name_en": "Plate Loaded Pullover",
+    "category": "挂片式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "上背肌群"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式上拉训练机（Pullover）。保留下拉、划船和上拉的独立动作名称，不混为同一种结构。",
+    "thumb": "thumb/017-挂片式上拉训练机.webp",
+    "detail": "detail/017-挂片式上拉训练机.webp",
+    "thumb_kb": 19.6,
+    "detail_kb": 77.1
+  },
+  {
+    "id": "018-挂片式反向V型深蹲训练机",
+    "name_zh": "挂片式反向V型深蹲训练机",
+    "name_en": "Plate Loaded Reverse V-Squat",
+    "category": "挂片式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式反向 V 型深蹲训练机。腿举与深蹲保留独立名称，不将 Squat Press 译成肩上推举。",
+    "thumb": "thumb/018-挂片式反向V型深蹲训练机.webp",
+    "detail": "detail/018-挂片式反向V型深蹲训练机.webp",
+    "thumb_kb": 15.8,
+    "detail_kb": 60.8
+  },
+  {
+    "id": "019-挂片式坐姿及站姿耸肩训练机",
+    "name_zh": "挂片式坐姿及站姿耸肩训练机",
+    "name_en": "Plate Loaded Seated / Standing Shrug",
+    "category": "挂片式力量器械",
+    "body_part": "上背",
+    "primary_muscles": [
+      "斜方肌上束"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式坐姿及站姿耸肩训练机。耸肩主要归上背，不等同颈部训练。",
+    "thumb": "thumb/019-挂片式坐姿及站姿耸肩训练机.webp",
+    "detail": "detail/019-挂片式坐姿及站姿耸肩训练机.webp",
+    "thumb_kb": 16.0,
+    "detail_kb": 62.5
+  },
+  {
+    "id": "020-挂片式坐姿提踵训练机",
+    "name_zh": "挂片式坐姿提踵训练机",
+    "name_en": "Plate Loaded Seated Calf Raise",
+    "category": "挂片式力量器械",
+    "body_part": "小腿",
+    "primary_muscles": [
+      "腓肠肌",
+      "比目鱼肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式坐姿提踵训练机。提踵训练，负荷分配依膝关节姿势而异。",
+    "thumb": "thumb/020-挂片式坐姿提踵训练机.webp",
+    "detail": "detail/020-挂片式坐姿提踵训练机.webp",
+    "thumb_kb": 14.3,
+    "detail_kb": 52.0
+  },
+  {
+    "id": "021-挂片式坐姿臂屈伸训练机",
+    "name_zh": "挂片式坐姿臂屈伸训练机",
+    "name_en": "Plate Loaded Seated Dip",
+    "category": "挂片式力量器械",
+    "body_part": "手臂",
+    "primary_muscles": [
+      "肱三头肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式坐姿臂屈伸训练机。三头肌伸展或臂屈伸。",
+    "thumb": "thumb/021-挂片式坐姿臂屈伸训练机.webp",
+    "detail": "detail/021-挂片式坐姿臂屈伸训练机.webp",
+    "thumb_kb": 16.7,
+    "detail_kb": 64.3
+  },
+  {
+    "id": "022-挂片式飞鸟夹胸训练机",
+    "name_zh": "挂片式飞鸟夹胸训练机",
+    "name_en": "Plate Loaded Super Fly",
+    "category": "挂片式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式飞鸟夹胸训练机。夹胸或飞鸟；不凭外形增加反向飞鸟功能。",
+    "thumb": "thumb/022-挂片式飞鸟夹胸训练机.webp",
+    "detail": "detail/022-挂片式飞鸟夹胸训练机.webp",
+    "thumb_kb": 14.8,
+    "detail_kb": 56.7
+  },
+  {
+    "id": "023-挂片式深蹲推蹬训练机",
+    "name_zh": "挂片式深蹲推蹬训练机",
+    "name_en": "Plate Loaded Super Squat Press",
+    "category": "挂片式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式深蹲推蹬训练机。腿举与深蹲保留独立名称，不将 Squat Press 译成肩上推举。",
+    "thumb": "thumb/023-挂片式深蹲推蹬训练机.webp",
+    "detail": "detail/023-挂片式深蹲推蹬训练机.webp",
+    "thumb_kb": 16.2,
+    "detail_kb": 65.6
+  },
+  {
+    "id": "024-挂片式胫骨前肌背屈训练机",
+    "name_zh": "挂片式胫骨前肌背屈训练机",
+    "name_en": "Plate Loaded Tibia Dorsi-Flexion",
+    "category": "挂片式力量器械",
+    "body_part": "小腿前侧",
+    "primary_muscles": [
+      "胫骨前肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "挂片式胫骨前肌背屈训练机。踝背屈，不是提踵。",
+    "thumb": "thumb/024-挂片式胫骨前肌背屈训练机.webp",
+    "detail": "detail/024-挂片式胫骨前肌背屈训练机.webp",
+    "thumb_kb": 11.4,
+    "detail_kb": 44.0
+  },
+  {
+    "id": "025-挂片式独立臂T杆划船训练机",
+    "name_zh": "挂片式独立臂T杆划船训练机",
+    "name_en": "Plate-Loaded Iso-Lateral T-Bar Row",
+    "category": "挂片式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "上背肌群"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式独立臂 T 杆划船训练机。保留下拉、划船和上拉的独立动作名称，不混为同一种结构。",
+    "thumb": "thumb/025-挂片式独立臂T杆划船训练机.webp",
+    "detail": "detail/025-挂片式独立臂T杆划船训练机.webp",
+    "thumb_kb": 13.8,
+    "detail_kb": 53.0
+  },
+  {
+    "id": "026-挂片式独立臂宽握高位下拉训练机",
+    "name_zh": "挂片式独立臂宽握高位下拉训练机",
+    "name_en": "Plate-Loaded Iso-Lateral Wide Pulldown",
+    "category": "挂片式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "上背肌群"
+    ],
+    "prevalence_cn": "一般",
+    "description": "挂片式独立臂宽握高位下拉训练机。保留下拉、划船和上拉的独立动作名称，不混为同一种结构。",
+    "thumb": "thumb/026-挂片式独立臂宽握高位下拉训练机.webp",
+    "detail": "detail/026-挂片式独立臂宽握高位下拉训练机.webp",
+    "thumb_kb": 15.6,
+    "detail_kb": 58.2
+  },
+  {
+    "id": "027-配重式腹肌卷腹训练机",
+    "name_zh": "配重式腹肌卷腹训练机",
+    "name_en": "Hammer Strength MTS Abdominal Crunch",
+    "category": "配重式力量器械",
+    "body_part": "腰腹核心",
+    "primary_muscles": [
+      "腹直肌",
+      "腹斜肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "MTS 配重式腹肌卷腹训练机。按动作名称进行编辑分类，非厂家逐项肌电验证。",
+    "thumb": "thumb/027-配重式腹肌卷腹训练机.webp",
+    "detail": "detail/027-配重式腹肌卷腹训练机.webp",
+    "thumb_kb": 17.6,
+    "detail_kb": 67.4
+  },
+  {
+    "id": "028-配重式独立臂二头肌弯举训练机",
+    "name_zh": "配重式独立臂二头肌弯举训练机",
+    "name_en": "Hammer Strength MTS Iso-Lateral Biceps Curl",
+    "category": "配重式力量器械",
+    "body_part": "手臂",
+    "primary_muscles": [
+      "肱二头肌",
+      "肱肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "MTS 独立臂二头肌弯举训练机。弯举训练；牧师凳本身是自由重量支撑凳。",
+    "thumb": "thumb/028-配重式独立臂二头肌弯举训练机.webp",
+    "detail": "detail/028-配重式独立臂二头肌弯举训练机.webp",
+    "thumb_kb": 19.6,
+    "detail_kb": 80.1
+  },
+  {
+    "id": "029-配重式独立臂推胸训练机",
+    "name_zh": "配重式独立臂推胸训练机",
+    "name_en": "Hammer Strength MTS Iso-Lateral Chest Press",
+    "category": "配重式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "一般",
+    "description": "MTS 独立臂推胸训练机。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/029-配重式独立臂推胸训练机.webp",
+    "detail": "detail/029-配重式独立臂推胸训练机.webp",
+    "thumb_kb": 15.9,
+    "detail_kb": 53.9
+  },
+  {
+    "id": "030-配重式独立臂下斜推胸训练机",
+    "name_zh": "配重式独立臂下斜推胸训练机",
+    "name_en": "Hammer Strength MTS Iso-Lateral Decline Press",
+    "category": "配重式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "一般",
+    "description": "MTS 独立臂下斜推胸训练机。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/030-配重式独立臂下斜推胸训练机.webp",
+    "detail": "detail/030-配重式独立臂下斜推胸训练机.webp",
+    "thumb_kb": 18.1,
+    "detail_kb": 71.6
+  },
+  {
+    "id": "031-配重式独立臂高位划船训练机",
+    "name_zh": "配重式独立臂高位划船训练机",
+    "name_en": "Hammer Strength MTS Iso-Lateral High Row",
+    "category": "配重式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "上背肌群"
+    ],
+    "prevalence_cn": "一般",
+    "description": "MTS 独立臂高位划船训练机。保留下拉、划船和上拉的独立动作名称，不混为同一种结构。",
+    "thumb": "thumb/031-配重式独立臂高位划船训练机.webp",
+    "detail": "detail/031-配重式独立臂高位划船训练机.webp",
+    "thumb_kb": 15.1,
+    "detail_kb": 60.3
+  },
+  {
+    "id": "032-配重式独立腿跪姿腿弯举训练机",
+    "name_zh": "配重式独立腿跪姿腿弯举训练机",
+    "name_en": "Hammer Strength MTS Kneeling Leg Curl",
+    "category": "配重式力量器械",
+    "body_part": "大腿后侧",
+    "primary_muscles": [
+      "腘绳肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "MTS 独立腿跪姿腿弯举训练机。Leg Curl 为屈膝腿弯举。",
+    "thumb": "thumb/032-配重式独立腿跪姿腿弯举训练机.webp",
+    "detail": "detail/032-配重式独立腿跪姿腿弯举训练机.webp",
+    "thumb_kb": 17.8,
+    "detail_kb": 73.6
+  },
+  {
+    "id": "033-配重式腹肌卷腹训练机",
+    "name_zh": "配重式腹肌卷腹训练机",
+    "name_en": "Hammer Strength Select Abdominal Crunch",
+    "category": "配重式力量器械",
+    "body_part": "腰腹核心",
+    "primary_muscles": [
+      "腹直肌",
+      "腹斜肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "Select 配重式腹肌卷腹训练机。按动作名称进行编辑分类，非厂家逐项肌电验证。",
+    "thumb": "thumb/033-配重式腹肌卷腹训练机.webp",
+    "detail": "detail/033-配重式腹肌卷腹训练机.webp",
+    "thumb_kb": 13.7,
+    "detail_kb": 56.3
+  },
+  {
+    "id": "034-辅助引体向上及双杠臂屈伸训练机",
+    "name_zh": "辅助引体向上及双杠臂屈伸训练机",
+    "name_en": "Hammer Strength Select Assist Dip Chin",
+    "category": "配重式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "肱二头肌",
+      "胸大肌",
+      "肱三头肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 辅助引体向上及双杠臂屈伸训练机。双功能辅助引体及双杠臂屈伸，不宜只归手臂。",
+    "thumb": "thumb/034-辅助引体向上及双杠臂屈伸训练机.webp",
+    "detail": "detail/034-辅助引体向上及双杠臂屈伸训练机.webp",
+    "thumb_kb": 11.0,
+    "detail_kb": 43.2
+  },
+  {
+    "id": "035-配重式背部伸展训练机",
+    "name_zh": "配重式背部伸展训练机",
+    "name_en": "Hammer Strength Select Back Extension",
+    "category": "配重式力量器械",
+    "body_part": "腰背",
+    "primary_muscles": [
+      "竖脊肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "Select 配重式背部伸展训练机。动作涉及躯干或髋伸展；具体参与程度依使用方式。",
+    "thumb": "thumb/035-配重式背部伸展训练机.webp",
+    "detail": "detail/035-配重式背部伸展训练机.webp",
+    "thumb_kb": 14.5,
+    "detail_kb": 56.8
+  },
+  {
+    "id": "036-配重式二头肌弯举训练机",
+    "name_zh": "配重式二头肌弯举训练机",
+    "name_en": "Hammer Strength Select Biceps Curl",
+    "category": "配重式力量器械",
+    "body_part": "手臂",
+    "primary_muscles": [
+      "肱二头肌",
+      "肱肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式二头肌弯举训练机。弯举训练；牧师凳本身是自由重量支撑凳。",
+    "thumb": "thumb/036-配重式二头肌弯举训练机.webp",
+    "detail": "detail/036-配重式二头肌弯举训练机.webp",
+    "thumb_kb": 16.3,
+    "detail_kb": 68.1
+  },
+  {
+    "id": "037-配重式坐姿推胸训练机",
+    "name_zh": "配重式坐姿推胸训练机",
+    "name_en": "Hammer Strength Select Chest Press",
+    "category": "配重式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式坐姿推胸训练机。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/037-配重式坐姿推胸训练机.webp",
+    "detail": "detail/037-配重式坐姿推胸训练机.webp",
+    "thumb_kb": 15.4,
+    "detail_kb": 66.0
+  },
+  {
+    "id": "038-配重式固定轨迹高位下拉训练机",
+    "name_zh": "配重式固定轨迹高位下拉训练机",
+    "name_en": "Hammer Strength Select Fixed Pulldown",
+    "category": "配重式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "上背肌群"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式固定轨迹高位下拉训练机。保留下拉、划船和上拉的独立动作名称，不混为同一种结构。",
+    "thumb": "thumb/038-配重式固定轨迹高位下拉训练机.webp",
+    "detail": "detail/038-配重式固定轨迹高位下拉训练机.webp",
+    "thumb_kb": 15.0,
+    "detail_kb": 61.9
+  },
+  {
+    "id": "039-配重式髋内外收展训练机",
+    "name_zh": "配重式髋内外收展训练机",
+    "name_en": "Hammer Strength Select Hip Abduction / Adduction",
+    "category": "配重式力量器械",
+    "body_part": "臀部",
+    "primary_muscles": [
+      "髋外展肌群",
+      "髋内收肌群"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式髋内外收展训练机。髋外展与髋内收两组动作合为一条记录。",
+    "thumb": "thumb/039-配重式髋内外收展训练机.webp",
+    "detail": "detail/039-配重式髋内外收展训练机.webp",
+    "thumb_kb": 15.4,
+    "detail_kb": 62.6
+  },
+  {
+    "id": "040-配重式髋部及臀部训练机",
+    "name_zh": "配重式髋部及臀部训练机",
+    "name_en": "Hammer Strength Select Hip and Glute",
+    "category": "配重式力量器械",
+    "body_part": "臀部",
+    "primary_muscles": [
+      "臀大肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "Select 配重式髋部及臀部训练机。按髋伸展或臀部训练用途分类。",
+    "thumb": "thumb/040-配重式髋部及臀部训练机.webp",
+    "detail": "detail/040-配重式髋部及臀部训练机.webp",
+    "thumb_kb": 12.0,
+    "detail_kb": 49.1
+  },
+  {
+    "id": "041-配重式高位下拉训练机",
+    "name_zh": "配重式高位下拉训练机",
+    "name_en": "Hammer Strength Select Lat Pulldown",
+    "category": "配重式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "上背肌群"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式高位下拉训练机。保留下拉、划船和上拉的独立动作名称，不混为同一种结构。",
+    "thumb": "thumb/041-配重式高位下拉训练机.webp",
+    "detail": "detail/041-配重式高位下拉训练机.webp",
+    "thumb_kb": 8.0,
+    "detail_kb": 31.1
+  },
+  {
+    "id": "042-配重式侧平举训练机",
+    "name_zh": "配重式侧平举训练机",
+    "name_en": "Hammer Strength Select Lateral Raise",
+    "category": "配重式力量器械",
+    "body_part": "肩部",
+    "primary_muscles": [
+      "三角肌中束"
+    ],
+    "prevalence_cn": "一般",
+    "description": "Select 配重式侧平举训练机。侧平举不是肩推。",
+    "thumb": "thumb/042-配重式侧平举训练机.webp",
+    "detail": "detail/042-配重式侧平举训练机.webp",
+    "thumb_kb": 12.5,
+    "detail_kb": 54.9
+  },
+  {
+    "id": "043-配重式俯卧腿弯举训练机",
+    "name_zh": "配重式俯卧腿弯举训练机",
+    "name_en": "Hammer Strength Select Leg Curl",
+    "category": "配重式力量器械",
+    "body_part": "大腿后侧",
+    "primary_muscles": [
+      "腘绳肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式俯卧腿弯举训练机。Leg Curl 为屈膝腿弯举。",
+    "thumb": "thumb/043-配重式俯卧腿弯举训练机.webp",
+    "detail": "detail/043-配重式俯卧腿弯举训练机.webp",
+    "thumb_kb": 11.9,
+    "detail_kb": 50.2
+  },
+  {
+    "id": "044-配重式腿屈伸训练机",
+    "name_zh": "配重式腿屈伸训练机",
+    "name_en": "Hammer Strength Select Leg Extension",
+    "category": "配重式力量器械",
+    "body_part": "大腿前侧",
+    "primary_muscles": [
+      "股四头肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式腿屈伸训练机。Leg Extension 为伸膝腿屈伸，不是腿弯举。",
+    "thumb": "thumb/044-配重式腿屈伸训练机.webp",
+    "detail": "detail/044-配重式腿屈伸训练机.webp",
+    "thumb_kb": 10.8,
+    "detail_kb": 45.7
+  },
+  {
+    "id": "045-配重式蝴蝶夹胸训练机",
+    "name_zh": "配重式蝴蝶夹胸训练机",
+    "name_en": "Hammer Strength Select Pectoral Fly",
+    "category": "配重式力量器械",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式蝴蝶夹胸训练机。夹胸或飞鸟；不凭外形增加反向飞鸟功能。",
+    "thumb": "thumb/045-配重式蝴蝶夹胸训练机.webp",
+    "detail": "detail/045-配重式蝴蝶夹胸训练机.webp",
+    "thumb_kb": 9.9,
+    "detail_kb": 40.0
+  },
+  {
+    "id": "046-配重式坐姿腿弯举训练机",
+    "name_zh": "配重式坐姿腿弯举训练机",
+    "name_en": "Hammer Strength Select Seated Leg Curl",
+    "category": "配重式力量器械",
+    "body_part": "大腿后侧",
+    "primary_muscles": [
+      "腘绳肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "Select 配重式坐姿腿弯举训练机。Leg Curl 为屈膝腿弯举。",
+    "thumb": "thumb/046-配重式坐姿腿弯举训练机.webp",
+    "detail": "detail/046-配重式坐姿腿弯举训练机.webp",
+    "thumb_kb": 11.7,
+    "detail_kb": 47.9
+  },
+  {
+    "id": "047-配重式坐姿腿举训练机",
+    "name_zh": "配重式坐姿腿举训练机",
+    "name_en": "Hammer Strength Select Seated Leg Press",
+    "category": "配重式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式坐姿腿举训练机。腿举与深蹲保留独立名称，不将 Squat Press 译成肩上推举。",
+    "thumb": "thumb/047-配重式坐姿腿举训练机.webp",
+    "detail": "detail/047-配重式坐姿腿举训练机.webp",
+    "thumb_kb": 14.5,
+    "detail_kb": 59.3
+  },
+  {
+    "id": "048-配重式坐姿划船训练机",
+    "name_zh": "配重式坐姿划船训练机",
+    "name_en": "Hammer Strength Select Seated Row",
+    "category": "配重式力量器械",
+    "body_part": "背部",
+    "primary_muscles": [
+      "背阔肌",
+      "上背肌群"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式坐姿划船训练机。保留下拉、划船和上拉的独立动作名称，不混为同一种结构。",
+    "thumb": "thumb/048-配重式坐姿划船训练机.webp",
+    "detail": "detail/048-配重式坐姿划船训练机.webp",
+    "thumb_kb": 11.7,
+    "detail_kb": 49.2
+  },
+  {
+    "id": "049-配重式推肩训练机",
+    "name_zh": "配重式推肩训练机",
+    "name_en": "Hammer Strength Select Shoulder Press",
+    "category": "配重式力量器械",
+    "body_part": "肩部",
+    "primary_muscles": [
+      "三角肌前束",
+      "三角肌中束",
+      "肱三头肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式推肩训练机。推肩，不归入推胸。",
+    "thumb": "thumb/049-配重式推肩训练机.webp",
+    "detail": "detail/049-配重式推肩训练机.webp",
+    "thumb_kb": 11.6,
+    "detail_kb": 49.1
+  },
+  {
+    "id": "050-配重式站姿提踵训练机",
+    "name_zh": "配重式站姿提踵训练机",
+    "name_en": "Hammer Strength Select Standing Calf",
+    "category": "配重式力量器械",
+    "body_part": "小腿",
+    "primary_muscles": [
+      "腓肠肌",
+      "比目鱼肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "Select 配重式站姿提踵训练机。提踵训练，负荷分配依膝关节姿势而异。",
+    "thumb": "thumb/050-配重式站姿提踵训练机.webp",
+    "detail": "detail/050-配重式站姿提踵训练机.webp",
+    "thumb_kb": 13.5,
+    "detail_kb": 55.8
+  },
+  {
+    "id": "051-配重式三头肌伸展训练机",
+    "name_zh": "配重式三头肌伸展训练机",
+    "name_en": "Hammer Strength Select Triceps Extension",
+    "category": "配重式力量器械",
+    "body_part": "手臂",
+    "primary_muscles": [
+      "肱三头肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "Select 配重式三头肌伸展训练机。三头肌伸展或臂屈伸。",
+    "thumb": "thumb/051-配重式三头肌伸展训练机.webp",
+    "detail": "detail/051-配重式三头肌伸展训练机.webp",
+    "thumb_kb": 10.1,
+    "detail_kb": 39.7
+  },
+  {
+    "id": "052-配重式独立臂三头肌伸展训练机",
+    "name_zh": "配重式独立臂三头肌伸展训练机",
+    "name_en": "MTS Iso-Lateral Triceps Extension",
+    "category": "配重式力量器械",
+    "body_part": "手臂",
+    "primary_muscles": [
+      "肱三头肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "MTS 独立臂三头肌伸展训练机。三头肌伸展或臂屈伸。",
+    "thumb": "thumb/052-配重式独立臂三头肌伸展训练机.webp",
+    "detail": "detail/052-配重式独立臂三头肌伸展训练机.webp",
+    "thumb_kb": 18.0,
+    "detail_kb": 72.3
+  },
+  {
+    "id": "053-配重式弧线腿举训练机",
+    "name_zh": "配重式弧线腿举训练机",
+    "name_en": "Insignia Series Arc Leg Press",
+    "category": "配重式力量器械",
+    "body_part": "臀腿下肢",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "配重式弧线腿举训练机。斜躺靠背配脚踏板，蹬腿沿弧形轨迹推进，行程比直线腿举更贴近自然髋部活动范围，主练股四头肌并带到臀部。",
+    "thumb": "thumb/053-配重式弧线腿举训练机.webp",
+    "detail": "detail/053-配重式弧线腿举训练机.webp",
+    "thumb_kb": 15.9,
+    "detail_kb": 60.8
+  },
+  {
+    "id": "054-配重式躯干旋转训练机",
+    "name_zh": "配重式躯干旋转训练机",
+    "name_en": "Insignia Series Torso Rotation",
+    "category": "配重式力量器械",
+    "body_part": "腰腹核心",
+    "primary_muscles": [
+      "腹斜肌",
+      "核心肌群"
+    ],
+    "prevalence_cn": "少见",
+    "description": "配重式躯干旋转训练机。坐姿使用，靠垫与腿部垫限制下半身，训练时只有上身绕竖直轴旋转，负荷落在腹斜肌与核心，下背部不承重。",
+    "thumb": "thumb/054-配重式躯干旋转训练机.webp",
+    "detail": "detail/054-配重式躯干旋转训练机.webp",
+    "thumb_kb": 11.9,
+    "detail_kb": 45.9
+  },
+  {
+    "id": "055-配重式臀肌训练机",
+    "name_zh": "配重式臀肌训练机",
+    "name_en": "Insignia Series Glute",
+    "category": "配重式力量器械",
+    "body_part": "臀部",
+    "primary_muscles": [
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "配重式臀肌训练机。配重塔前方接低位导轨与腿部作用臂，靠髋伸展（向后蹬腿）驱动，单独刺激臀大肌，上身姿势由机身支撑、不用手臂承重。",
+    "thumb": "thumb/055-配重式臀肌训练机.webp",
+    "detail": "detail/055-配重式臀肌训练机.webp",
+    "thumb_kb": 13.7,
+    "detail_kb": 54.1
+  },
+  {
+    "id": "056-配重式臀桥训练机",
+    "name_zh": "配重式臀桥训练机",
+    "name_en": "Insignia Series Glute Bridge",
+    "category": "配重式力量器械",
+    "body_part": "臀部",
+    "primary_muscles": [
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "配重式臀桥训练机。座椅配靠背垫与独立的脚部支撑，踩稳后顶髋发力，动作与徒手臀桥一致，负荷由配重片调节，两侧扶手便于上下机。",
+    "thumb": "thumb/056-配重式臀桥训练机.webp",
+    "detail": "detail/056-配重式臀桥训练机.webp",
+    "thumb_kb": 12.5,
+    "detail_kb": 49.4
+  },
+  {
+    "id": "057-配重式小腿蹬伸训练机",
+    "name_zh": "配重式小腿蹬伸训练机",
+    "name_en": "Insignia Series Calf Extension",
+    "category": "配重式力量器械",
+    "body_part": "小腿",
+    "primary_muscles": [
+      "腓肠肌",
+      "比目鱼肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "配重式小腿蹬伸训练机。坐姿使用，脚踏板随踝关节自然转动，坐高便于上下机，用前脚掌蹬伸把重量顶起，练小腿三头肌。",
+    "thumb": "thumb/057-配重式小腿蹬伸训练机.webp",
+    "detail": "detail/057-配重式小腿蹬伸训练机.webp",
+    "thumb_kb": 13.7,
+    "detail_kb": 58.7
+  },
+  {
+    "id": "058-配重式三头肌推举训练机",
+    "name_zh": "配重式三头肌推举训练机",
+    "name_en": "Insignia Series Triceps Press",
+    "category": "配重式力量器械",
+    "body_part": "手臂",
+    "primary_muscles": [
+      "肱三头肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "配重式三头肌推举训练机。坐姿使用，一组可旋转的大推举手柄配一组传统臂屈伸式把手，靠肘部伸展顶起配重，专练肱三头肌。",
+    "thumb": "thumb/058-配重式三头肌推举训练机.webp",
+    "detail": "detail/058-配重式三头肌推举训练机.webp",
+    "thumb_kb": 15.5,
+    "detail_kb": 67.5
+  },
+  {
+    "id": "059-可调式训练凳",
+    "name_zh": "可调式训练凳",
+    "name_en": "Adjustable Bench",
+    "category": "训练凳与卧推架",
+    "body_part": "辅助训练凳",
+    "primary_muscles": [
+      "胸大肌",
+      "三角肌前束",
+      "肱三头肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "可调式训练凳。训练凳提供支撑，不应固定标为腘绳肌或背部训练。",
+    "thumb": "thumb/059-可调式训练凳.webp",
+    "detail": "detail/059-可调式训练凳.webp",
+    "thumb_kb": 11.0,
+    "detail_kb": 41.3
+  },
+  {
+    "id": "060-平板训练凳",
+    "name_zh": "平板训练凳",
+    "name_en": "Flat Bench",
+    "category": "训练凳与卧推架",
+    "body_part": "辅助训练凳",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "常见",
+    "description": "平板训练凳。训练凳提供支撑，不应固定标为腘绳肌或背部训练。",
+    "thumb": "thumb/060-平板训练凳.webp",
+    "detail": "detail/060-平板训练凳.webp",
+    "thumb_kb": 7.0,
+    "detail_kb": 25.4
+  },
+  {
+    "id": "061-奥林匹克下斜卧推架凳",
+    "name_zh": "奥林匹克下斜卧推架凳",
+    "name_en": "Olympic Decline Bench",
+    "category": "训练凳与卧推架",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "一般",
+    "description": "奥林匹克下斜卧推架凳。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/061-奥林匹克下斜卧推架凳.webp",
+    "detail": "detail/061-奥林匹克下斜卧推架凳.webp",
+    "thumb_kb": 15.4,
+    "detail_kb": 60.7
+  },
+  {
+    "id": "062-奥林匹克平板卧推架凳",
+    "name_zh": "奥林匹克平板卧推架凳",
+    "name_en": "Olympic Flat Bench",
+    "category": "训练凳与卧推架",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "常见",
+    "description": "奥林匹克平板卧推架凳。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/062-奥林匹克平板卧推架凳.webp",
+    "detail": "detail/062-奥林匹克平板卧推架凳.webp",
+    "thumb_kb": 13.4,
+    "detail_kb": 54.0
+  },
+  {
+    "id": "063-奥林匹克上斜卧推架凳",
+    "name_zh": "奥林匹克上斜卧推架凳",
+    "name_en": "Olympic Incline Bench",
+    "category": "训练凳与卧推架",
+    "body_part": "胸部",
+    "primary_muscles": [
+      "胸大肌",
+      "肱三头肌",
+      "三角肌前束"
+    ],
+    "prevalence_cn": "常见",
+    "description": "奥林匹克上斜卧推架凳。推胸或卧推；上斜卧推架凳仍归胸部动作。",
+    "thumb": "thumb/063-奥林匹克上斜卧推架凳.webp",
+    "detail": "detail/063-奥林匹克上斜卧推架凳.webp",
+    "thumb_kb": 16.4,
+    "detail_kb": 68.9
+  },
+  {
+    "id": "064-奥林匹克坐姿推肩架凳",
+    "name_zh": "奥林匹克坐姿推肩架凳",
+    "name_en": "Olympic Military Bench",
+    "category": "训练凳与卧推架",
+    "body_part": "肩部",
+    "primary_muscles": [
+      "三角肌前束",
+      "三角肌中束",
+      "肱三头肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "奥林匹克坐姿推肩架凳。推肩，不归入推胸。",
+    "thumb": "thumb/064-奥林匹克坐姿推肩架凳.webp",
+    "detail": "detail/064-奥林匹克坐姿推肩架凳.webp",
+    "thumb_kb": 17.9,
+    "detail_kb": 75.0
+  },
+  {
+    "id": "065-坐姿牧师弯举凳",
+    "name_zh": "坐姿牧师弯举凳",
+    "name_en": "Seated Arm Curl",
+    "category": "训练凳与卧推架",
+    "body_part": "手臂",
+    "primary_muscles": [
+      "肱二头肌",
+      "肱肌"
+    ],
+    "prevalence_cn": "一般",
+    "description": "坐姿牧师弯举凳。弯举训练；牧师凳本身是自由重量支撑凳。",
+    "thumb": "thumb/065-坐姿牧师弯举凳.webp",
+    "detail": "detail/065-坐姿牧师弯举凳.webp",
+    "thumb_kb": 17.7,
+    "detail_kb": 71.9
+  },
+  {
+    "id": "066-75度固定靠背训练凳",
+    "name_zh": "75度固定靠背训练凳",
+    "name_en": "Utility Bench-75 Degree",
+    "category": "训练凳与卧推架",
+    "body_part": "辅助训练凳",
+    "primary_muscles": [
+      "三角肌前束",
+      "三角肌中束",
+      "肱三头肌",
+      "胸大肌上束"
+    ],
+    "prevalence_cn": "一般",
+    "description": "75度固定靠背训练凳。训练凳提供支撑，不应固定标为腘绳肌或背部训练。",
+    "thumb": "thumb/066-75度固定靠背训练凳.webp",
+    "detail": "detail/066-75度固定靠背训练凳.webp",
+    "thumb_kb": 8.6,
+    "detail_kb": 28.1
+  },
+  {
+    "id": "067-风阻健身车",
+    "name_zh": "风阻健身车",
+    "name_en": "HD Air Bike",
+    "category": "体能与心肺器械",
+    "body_part": "体能心肺",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌",
+      "腘绳肌",
+      "心肺耐力"
+    ],
+    "prevalence_cn": "常见",
+    "description": "HD 风阻健身车。心肺耐力属于训练能力，不是肌肉名称。",
+    "thumb": "thumb/067-风阻健身车.webp",
+    "detail": "detail/067-风阻健身车.webp",
+    "thumb_kb": 16.3,
+    "detail_kb": 65.7
+  },
+  {
+    "id": "068-体能训练器",
+    "name_zh": "体能训练器",
+    "name_en": "HD SPARC",
+    "category": "体能与心肺器械",
+    "body_part": "体能心肺",
+    "primary_muscles": [
+      "臀大肌",
+      "股四头肌",
+      "腘绳肌",
+      "心肺耐力"
+    ],
+    "prevalence_cn": "少见",
+    "description": "HD SPARC 体能训练器。心肺耐力属于训练能力，不是肌肉名称。",
+    "thumb": "thumb/068-体能训练器.webp",
+    "detail": "detail/068-体能训练器.webp",
+    "thumb_kb": 18.3,
+    "detail_kb": 74.2
+  },
+  {
+    "id": "069-无动力跑步机",
+    "name_zh": "无动力跑步机",
+    "name_en": "HD Tread",
+    "category": "体能与心肺器械",
+    "body_part": "体能心肺",
+    "primary_muscles": [
+      "腘绳肌",
+      "臀大肌",
+      "小腿肌群",
+      "心肺耐力"
+    ],
+    "prevalence_cn": "一般",
+    "description": "HD 无动力跑步机。心肺耐力属于训练能力，不是肌肉名称。",
+    "thumb": "thumb/069-无动力跑步机.webp",
+    "detail": "detail/069-无动力跑步机.webp",
+    "thumb_kb": 13.0,
+    "detail_kb": 55.8
+  },
+  {
+    "id": "070-椭圆机",
+    "name_zh": "椭圆机",
+    "name_en": "Elliptical Cross-Trainer",
+    "category": "体能与心肺器械",
+    "body_part": "体能心肺",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌",
+      "腘绳肌",
+      "心肺耐力"
+    ],
+    "prevalence_cn": "常见",
+    "description": "椭圆机。低冲击的连续椭圆轨迹蹬踏，常用于心肺耐力、热身与放松；带活动手柄和显示屏控制台。阻力档位、步幅等参数随机型而定，未核实前不填写。",
+    "thumb": "thumb/070-椭圆机.webp",
+    "detail": "detail/070-椭圆机.webp",
+    "thumb_kb": 16.3,
+    "detail_kb": 64.8
+  },
+  {
+    "id": "071-罗马椅背部伸展训练器",
+    "name_zh": "罗马椅背部伸展训练器",
+    "name_en": "Hammer Strength Back Extension",
+    "category": "自重辅助训练器械",
+    "body_part": "腰背",
+    "primary_muscles": [
+      "竖脊肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "罗马椅背部伸展训练器。动作涉及躯干或髋伸展；具体参与程度依使用方式。",
+    "thumb": "thumb/071-罗马椅背部伸展训练器.webp",
+    "detail": "detail/071-罗马椅背部伸展训练器.webp",
+    "thumb_kb": 13.0,
+    "detail_kb": 50.7
+  },
+  {
+    "id": "072-固定垫臀腿训练器",
+    "name_zh": "固定垫臀腿训练器",
+    "name_en": "Hammer Strength Fixed Pad Glute/Ham",
+    "category": "自重辅助训练器械",
+    "body_part": "臀腿后链",
+    "primary_muscles": [
+      "腘绳肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "固定垫臀腿训练器（GHD）。辅助北欧腿弯举不应仅因挂载铃片就断定为主动挂片负荷；负荷机制待型号说明核对。",
+    "thumb": "thumb/072-固定垫臀腿训练器.webp",
+    "detail": "detail/072-固定垫臀腿训练器.webp",
+    "thumb_kb": 18.9,
+    "detail_kb": 71.4
+  },
+  {
+    "id": "073-辅助北欧腿弯举训练器",
+    "name_zh": "辅助北欧腿弯举训练器",
+    "name_en": "Plate Loaded Assisted Nordic Ham",
+    "category": "自重辅助训练器械",
+    "body_part": "臀腿后链",
+    "primary_muscles": [
+      "腘绳肌",
+      "臀大肌"
+    ],
+    "prevalence_cn": "少见",
+    "description": "辅助北欧腿弯举训练器。辅助北欧腿弯举不应仅因挂载铃片就断定为主动挂片负荷；负荷机制待型号说明核对。",
+    "thumb": "thumb/073-辅助北欧腿弯举训练器.webp",
+    "detail": "detail/073-辅助北欧腿弯举训练器.webp",
+    "thumb_kb": 19.7,
+    "detail_kb": 87.0
+  },
+  {
+    "id": "074-深蹲立架",
+    "name_zh": "深蹲立架",
+    "name_en": "HD Athletic NX Squat Stand",
+    "category": "力量训练架",
+    "body_part": "综合力量",
+    "primary_muscles": [
+      "股四头肌",
+      "臀大肌",
+      "竖脊肌",
+      "核心肌群"
+    ],
+    "prevalence_cn": "常见",
+    "description": "HD Athletic NX 深蹲立架。支撑或导向器械；训练部位取决于动作，不固定归为背部。",
+    "thumb": "thumb/074-深蹲立架.webp",
+    "detail": "detail/074-深蹲立架.webp",
+    "thumb_kb": 11.6,
+    "detail_kb": 46.1
+  },
+  {
+    "id": "075-倾斜轨迹史密斯机",
+    "name_zh": "倾斜轨迹史密斯机",
+    "name_en": "Smith Machine",
+    "category": "史密斯机",
+    "body_part": "综合力量",
+    "primary_muscles": [
+      "胸大肌",
+      "股四头肌",
+      "臀大肌",
+      "三角肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "倾斜轨迹史密斯机。支撑或导向器械；训练部位取决于动作，不固定归为背部。",
+    "thumb": "thumb/075-倾斜轨迹史密斯机.webp",
+    "detail": "detail/075-倾斜轨迹史密斯机.webp",
+    "thumb_kb": 20.1,
+    "detail_kb": 69.7
+  },
+  {
+    "id": "076-缆绳交叉训练机",
+    "name_zh": "缆绳交叉训练机",
+    "name_en": "Adjustable Cable Crossover",
+    "category": "缆绳式力量器械",
+    "body_part": "综合力量",
+    "primary_muscles": [
+      "胸大肌",
+      "背阔肌",
+      "三角肌",
+      "肱二头肌",
+      "肱三头肌"
+    ],
+    "prevalence_cn": "常见",
+    "description": "缆绳交叉训练机。左右两座独立配重塔，滑轮高度可调，两路钢索可在身前交叉，用于夹胸、飞鸟、下拉与推举等自由轨迹动作。阻力比与配重规格随机型而定，未核实前不填写。",
+    "thumb": "thumb/076-缆绳交叉训练机.webp",
+    "detail": "detail/076-缆绳交叉训练机.webp",
+    "thumb_kb": 12.5,
+    "detail_kb": 49.8
+  },
+  {
+    "id": "077-可调式双滑轮训练机",
+    "name_zh": "可调式双滑轮训练机",
+    "name_en": "Life Fitness Dual Adjustable Pulley",
+    "category": "缆绳式力量器械",
+    "body_part": "综合力量",
+    "primary_muscles": [
+      "胸大肌",
+      "背阔肌",
+      "三角肌",
+      "核心肌群"
+    ],
+    "prevalence_cn": "常见",
+    "description": "可调式双滑轮训练机。两座独立配重塔各配一路高度可调的滑轮，可站姿或借助凳位完成下拉、划船、推举与核心训练，顶部设有引体握把。",
+    "thumb": "thumb/077-可调式双滑轮训练机.webp",
+    "detail": "detail/077-可调式双滑轮训练机.webp",
+    "thumb_kb": 19.1,
+    "detail_kb": 85.5
+  }
+]
